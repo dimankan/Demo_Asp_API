@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Notes.Application.Mappings
 {
-    internal class IMapWith<T>
+    public class IMapWith<T>
     {
         void Mapping(Profile profile) => profile.CreateMap(typeof(T), GetType());
     }

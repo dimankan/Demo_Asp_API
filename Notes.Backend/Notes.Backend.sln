@@ -15,9 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.Domain", "Notes.Domai
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.Application", "Notes.Application\Notes.Application.csproj", "{4F359FB9-CB94-4172-A3BC-5FE43929CD9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.Persistence", "Notes.Persistence\Notes.Persistence.csproj", "{4F42C525-727F-49CD-939A-EADEBF8D8BF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.Persistence", "Notes.Persistence\Notes.Persistence.csproj", "{4F42C525-727F-49CD-939A-EADEBF8D8BF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.WenApi", "Notes.WenApi\Notes.WenApi.csproj", "{117819E1-352A-49BA-9D0D-16E2D09DEE3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.WenApi", "Notes.WenApi\Notes.WenApi.csproj", "{117819E1-352A-49BA-9D0D-16E2D09DEE3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
